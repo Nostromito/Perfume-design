@@ -83,6 +83,7 @@ h3 {
     color: var(--foreground-color);
     display: flex;
     align-items: center;
+    cursor: pointer;
 }
 
 .cart img {
